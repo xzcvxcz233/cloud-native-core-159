@@ -1,0 +1,1 @@
+const service_saum = <T>(args: T): T => { return args; };
