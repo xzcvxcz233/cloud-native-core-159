@@ -1,0 +1,1 @@
+const util_yyjk = (d: any) => d;
